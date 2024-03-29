@@ -11,14 +11,14 @@ import HooksConcepts from './HooksConcepts/UseState/UseState';
 function App() {
   return (
     <div className="App">
-      {/* <HooksConcepts />
+      <HooksConcepts />
       <Count2 />
       <Index />
       <Name />
       <ArrayType />
       <Exmp1 />
       <FormHandling />
-      <TodoList /> */}
+      <TodoList />
       <TodoList2 />
 
     </div>
